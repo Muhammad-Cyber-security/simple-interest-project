@@ -1,0 +1,1 @@
+The repository includes a `CODE_OF_CONDUCT.md` file that outlines expected behavior for all contributors. It promotes a welcoming and inclusive environment by setting clear community standards and explaining how to report unacceptable behavior.
