@@ -1,1 +1,17 @@
-The repository contains a `simple-interest.sh` file located in the root directory. This Bash script calculates simple interest based on user input for principal amount, rate of interest, and time. It uses the formula: (Principal × Rate × Time) / 100 and displays the result in the terminal.
+#!/bin/bash
+
+# Simple Interest Calculator
+
+echo "Enter Principal:"
+read principal
+
+echo "Enter Rate of Interest:"
+read rate
+
+echo "Enter Time (in years):"
+read time
+
+# Calculate simple interest
+si=$(echo "scale=2; ($principal * $rate * $time) / 100" | bc)
+
+echo "Simple Interest = $si"
