@@ -7,5 +7,5 @@ Thank you for considering contributing to this project!
 1. **Fork the repository** on GitHub.
 
 2. **Clone your fork** to your local machine:
-   ```bash
+   ``bash
    git clone https://github.com/Muhammad-Cyber-security/simple-interest-project.git
