@@ -1,1 +1,10 @@
-The repository includes a `CONTRIBUTING.md` file that provides clear guidelines for contributing to the project. It explains how to fork the repository, create feature branches, make changes, and submit pull requests, helping contributors follow a structured workflow.
+# Contributing Guidelines
+
+Thank you for considering contributing to this project!
+
+## How to Contribute
+
+1. **Fork the repository** on GitHub.
+2. **Clone your fork** to your local machine:
+   ```bash
+   git clone https://github.com/your-username/simple-interest-project.git
